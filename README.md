@@ -19,3 +19,7 @@ override.tf.json - Игнорирует один файл override.tf.json
 .terraformrc  - Игнорирует один файл .terraformrc
 
 terraform.rc  - Игнорирует один файл terraform.rc
+
+
+------------------
+Новая строка
